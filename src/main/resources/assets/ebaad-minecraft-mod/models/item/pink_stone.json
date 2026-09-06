@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ebaad-minecraft-mod:item/pink_stone"
+  }
+}
